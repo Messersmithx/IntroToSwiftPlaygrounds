@@ -22,9 +22,14 @@ var combinedStrings = tacoTime + space + theMoonMan + space + wow
 
 print(combinedStrings)
 
+
+
+
+
+
  /* Assignment two */
 
- var appState = false
+var appState = false
 
 var firstInt = 1
 
@@ -33,7 +38,6 @@ var secondInt = 2
 print("App State is equal to: ")
 
 print(appState)
-
 
 
 
